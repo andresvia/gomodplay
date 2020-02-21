@@ -1,6 +1,6 @@
 package gomodplay
 
-import "github.com/cenkalti/backoff/v3"
+import "github.com/cenkalti/backoff"
 import "github.com/aws/aws-sdk-go/aws"
 import "github.com/sergi/go-diff/diffmatchpatch"
 
